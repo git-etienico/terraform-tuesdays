@@ -1,0 +1,1 @@
+\\127.0.0.1\c$\_Sources\setup.exe /configure \\127.0.0.1\c$\_Sources\configuration.xml
